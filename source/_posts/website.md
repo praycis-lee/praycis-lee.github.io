@@ -46,7 +46,7 @@ categories: 'website'
 
 [macdown语法手册](http://blog.csdn.net/witnessai1/article/details/52551362)
 
-#hexo 博客搭建
+#	hexo 博客搭建
 *	[5分钟搭建免费个人博客](http://www.jianshu.com/p/4eaddcbe4d12)
 *	[HEXO+Github,搭建属于自己的博客](http://www.jianshu.com/p/465830080ea9)
 * 	[hexo下新建页面如何放多个文章](https://www.zhihu.com/question/33324071)
